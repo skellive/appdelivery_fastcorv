@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498533649842",
+    "firebase_url": "https://fastcorv.firebaseio.com",
+    "project_id": "fastcorv",
+    "storage_bucket": "fastcorv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498533649842:android:1c32b814d8b490c02928ab",
+        "android_client_info": {
+          "package_name": "com.app.name.fastcorv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498533649842-13cdkh6mlse855khgk6dplnu121ejp50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrw9X-Twn5LdrOClzEIvdcVwNsgfudJck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498533649842-13cdkh6mlse855khgk6dplnu121ejp50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
