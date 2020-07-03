@@ -1,9 +1,9 @@
 
-
+import 'package:flutter/material.dart';
 import 'package:fastcorv_delivery/vista/login/LoginPage.dart';
 import 'package:fastcorv_delivery/vista/login/registerMap.dart';
 import 'package:fastcorv_delivery/vista/login/resgisterLogin.dart';
-import 'package:flutter/material.dart';
+
 
 
 void main() {
